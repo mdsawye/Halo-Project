@@ -1,0 +1,40 @@
+header{
+	background-image: url("../img/Chief.jpg");
+
+}
+body{
+	font-family: wf_heroic-condensed-pro_medium,Calibri,"Arial Narrow","Trebuchet MS",Tahoma,Arial,sans-serif;
+	font-size: 14px;
+    line-height: 1.42857143;
+    color: #333;
+}
+#services{
+	background-color: #24552f;
+}
+#portfolio{
+	background-color: #004d39;
+}
+#about{
+	background-color: #7a7a52;
+}
+#team{
+	background-color: #265931;
+}
+h3.section-subheading{color:#585757;}
+.navbar-default .navbar-brand {
+    color: #fed136;
+    font-family: wf_heroic-condensed-pro_medium,Calibri,"Arial Narrow","Trebuchet MS",Tahoma,Arial,sans-serif;
+}
+.navbar-default {
+	padding: 12px;
+	background-color: black
+}
+/*.UNSC{
+	background-image: url("../img/UNSC.jpg");
+	
+}*/
+ .carousel-inner > .item > img,
+ .carousel-inner > .item > a > img {
+      width: 35%;
+      margin: auto;
+  }
